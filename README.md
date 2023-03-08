@@ -17,7 +17,7 @@ You can find this page at https://augustmoehring.github.io/challenge-week-1/
 
 ## Credits
 
-N/A
+I do not own the orignal source code, it belongs to the original author
 
 ## License
 
