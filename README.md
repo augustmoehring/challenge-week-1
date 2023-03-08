@@ -13,7 +13,7 @@ You can find this page at https://augustmoehring.github.io/challenge-week-1/
 
 ## Screenshot
 
-![screenshot of website](/assets/images/screenshot 2023-03-08 133106.png)
+file:///E:/challenge-1/assets/images/Screenshot%202023-03-08%20133106.png
 
 
 ## Credits
